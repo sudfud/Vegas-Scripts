@@ -17,4 +17,4 @@ Script has only been tested on Vegas 11, compatibility with other versions is un
 - C:\Users\<username>\AppData\Local\Vegas Pro\Script Menu\
 - C:\Users\<username>\AppData\Roaming\Vegas Pro\Script Menu\
 - C:\ProgramData\Vegas Pro\Script Menu\
-
+### 3. Restart Sony Vegas, or go to "Tools --> Scripting --> Rescan Script Menu Folder"
